@@ -1,3 +1,5 @@
+A brief project write-up
+
 ‬  Many retail investors rely on technical analysis (charts and price movements) for short-term‬
 ‭ trading but struggle with fundamental analysis, which is key to long-term investing. This‬
 ‭ app/website simplifies fundamental analysis by allowing users to upload financial documents of‬
