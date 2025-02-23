@@ -5,3 +5,5 @@
 ‭ insights, presenting them in an easy-to-understand format. By automating financial analysis, this‬
 ‭ tool helps users make well-informed investment decisions based on a company’s true financial‬
 ‭ health, rather than just market trends.‬
+
+https://devpost.com/software/fundamental-and-quant-analysis
