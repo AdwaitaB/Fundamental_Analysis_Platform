@@ -14,7 +14,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 import re
 
-# Download NLTK resources (if not already downloaded)
+
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
