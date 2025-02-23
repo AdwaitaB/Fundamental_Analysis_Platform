@@ -1,0 +1,33 @@
+A brief project write-up
+Development Process
+The development process was divided into several key phases:
+
+Phase 1: Research and Planning
+Identified core features: Company search, document upload, AI recommendations, and visualizations.
+
+Researched APIs and libraries for financial data (e.g., Yahoo Finance) and text processing (e.g., NLTK, TextBlob).
+
+Designed a user-friendly interface using Streamlit for seamless interaction.
+
+Phase 2: Core Functionality
+Integrated Yahoo Finance API to fetch real-time financial data (e.g., revenue, net income, market cap).
+
+Built a document upload feature using pdfplumber to extract and summarize text from PDFs.
+
+Implemented sentiment analysis using TextBlob to analyze stock news sentiment.
+
+Developed AI-powered recommendations based on financial ratios (e.g., P/E ratio, debt-to-equity) and sentiment scores.
+
+Phase 3: Visualization and User Experience
+Created interactive visualizations using Plotly to display financial trends (e.g., revenue growth, debt vs. equity).
+
+Added a heatmap to visualize metric deviations over time.
+
+Designed a professional and modern UI with custom CSS for a polished look.
+
+Phase 4: Testing and Refinement
+Tested the tool with sample data and real-world financial documents.
+
+Refined the AI recommendation logic to improve accuracy.
+
+Optimized the tool for performance and scalability.
